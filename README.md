@@ -236,4 +236,4 @@ This repository serves as the official landing page for Popup Killer. The softwa
 **Get the most recent version of Popup Killer today!**
 
 ---
-**Last updated:** 2026-10-09 01:58:58 UTC
+**Last updated:** 2026-10-09 08:53:55 UTC
